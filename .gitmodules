@@ -1,0 +1,33 @@
+[submodule "Objects"]
+	path = Objects
+	url = https://github.com/zieunx/objects.git
+[submodule "ThinkDataStructures"]
+	path = ThinkDataStructures
+	url = https://github.com/zieunx/ThinkDataStructures.git
+[submodule "concurrency"]
+	path = concurrency
+	url = https://github.com/zieunx/java-concrrency.git
+[submodule "designing-data-intensive-application"]
+	path = designing-data-intensive-application
+	url = https://github.com/zieunx/designing-data-intensive-application.git
+[submodule "effective-java"]
+	path = effective-java
+	url = https://github.com/zieunx/effective-java.git
+[submodule "effective-software-testing"]
+	path = effective-software-testing
+	url = https://github.com/zieunx/effective-software-testing.git
+[submodule "head-first-design-patterns"]
+	path = head-first-design-patterns
+	url = https://github.com/zieunx/head-first-design-patterns.git
+[submodule "http-perfect-guide"]
+	path = http-perfect-guide
+	url = https://github.com/zieunx/http-perfect-guide.git
+[submodule "modern-java-in-action"]
+	path = modern-java-in-action
+	url = https://github.com/zieunx/mordern-java-in-action.git
+[submodule "springboot-aws-practice"]
+	path = springboot-aws-practice
+	url = https://github.com/zieunx/springboot-aws-practice.git
+[submodule "test-driven-development"]
+	path = test-driven-development
+	url = https://github.com/zieunx/test-driven-development.git
